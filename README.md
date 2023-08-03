@@ -1,2 +1,2 @@
 # test1
-this is my test repository file
+this is a calculator project
